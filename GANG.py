@@ -300,7 +300,7 @@ Joiner is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Purchase Mak
 [\x1b[95m>\x1b[95m\x1B[37m] Choice?: """)
 
         if gh in ['01','1']:
-            webbrowser.open('https://gangnuker.com')
+            webbrowser.open('https://gangnuker.org')
         elif gh in ['02','2']:
             exit = spammer()
         else:
@@ -405,7 +405,7 @@ Token Onliner is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Purch
 [\x1b[95m>\x1b[95m\x1B[37m] Choice?: """)
 
         if gh in ['01','1']:
-            webbrowser.open('https://gangnuker.com')
+            webbrowser.open('https://gangnuker.org')
         elif gh in ['02','2']:
             exit = spammer()
         else:
@@ -1193,7 +1193,7 @@ DM Spammer is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Purchase
 [\x1b[95m>\x1b[95m\x1B[37m] Choice?: """)
 
         if gh in ['01','1']:
-            webbrowser.open('https://gangnuker.com')
+            webbrowser.open('https://gangnuker.org')
         elif gh in ['02','2']:
             exit = spammer()
         else:
@@ -1616,7 +1616,7 @@ Token Generator is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Pur
 [\x1b[95m>\x1b[95m\x1B[37m] Choice?: """)
 
         if gh in ['01','1']:
-            webbrowser.open('https://gangnuker.com')
+            webbrowser.open('https://gangnuker.org')
         elif gh in ['02','2']:
             exit = spammer()
         else:

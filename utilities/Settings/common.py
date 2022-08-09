@@ -2,7 +2,7 @@
 # GANG Discord Nuker / Multi Tool©
 # Copyright © 2022
 #########################################
-
+ 
 import os
 import re
 import io

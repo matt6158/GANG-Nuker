@@ -1,9 +1,11 @@
+salut toka
 python-http-client
 2captcha-python
 beautifulsoup4
 pyinstaller
 pylibcheck
 pyperclip
+ultrarequests
 pyautogui
 pypiwin32
 websocket

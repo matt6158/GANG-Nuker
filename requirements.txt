@@ -1,4 +1,3 @@
-salut toka
 python-http-client
 2captcha-python
 beautifulsoup4

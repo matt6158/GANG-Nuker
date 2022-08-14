@@ -75,6 +75,7 @@ import os
 import time
 import emoji
 import shutil
+import ultrarequests
 import zipfile
 import datetime
 import colorama

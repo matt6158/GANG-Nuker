@@ -20,6 +20,7 @@ easygui
 tasksio
 pystyle
 discum
+ultrarequests
 Cipher
 colour
 pillow

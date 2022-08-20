@@ -10,7 +10,7 @@ import threading
 from colorama import Fore
 from itertools import cycle
 from pystyle import Add, Center, Anime, Colors, Colorate, Write, System
-
+ 
 from utilities.Settings.common import SlowPrint, getheaders, proxy
 
 ###############################################################################+

@@ -16,7 +16,7 @@ from bs4 import BeautifulSoup
 from utilities.Settings.common import *
 
 #########################################
-
+ 
 def search_for_updates():
     clear()
     setTitle("GANG-Nuker Update Checker")

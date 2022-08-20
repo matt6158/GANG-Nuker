@@ -11,7 +11,7 @@ import utilities.Plugins.DM_Deleter
 import utilities.Plugins.Token_Info
 import utilities.Plugins.QR_Grabber
 import utilities.Plugins.Account_Nuker
- 
+
 w = Fore.WHITE
 g = Fore.LIGHTGREEN_EX
 r = Fore.LIGHTRED_EX

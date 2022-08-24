@@ -1,4 +1,5 @@
 python-http-client
+charset_normalizer
 2captcha-python
 beautifulsoup4
 pyinstaller

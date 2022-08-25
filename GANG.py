@@ -1,6 +1,6 @@
-# Coded / Dev: ††#9999 or ††#1158 | https://github.com/TT-Tutorials | https://github.com/TT-Tutorials/GANG-Nuker
+# Coded / Dev: ††#9999 | https://github.com/TT-Tutorials | https://github.com/TT-Tutorials/GANG-Nuker
 # GANG Discord Nuker / Multi Tool©
-# Copyright © 2022 ††#9999 / ††#1158
+# Copyright © 2022 ††#9999
 # Copyright © GANG-Nuker
 #########################################################
 

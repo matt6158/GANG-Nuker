@@ -10,8 +10,8 @@
 </p>
 <p align="center">
 <a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://discord.gg/wCPhjHbjdx">Discord</a> ㅤ•ㅤ
-<a href="https://www.youtube.com/watch?v=K3VGdO3Tnv8">Video SHOWCASE</a>
+<a href="https://discord.gg/">Discord</a> ㅤ•ㅤ
+<a href="https://www.youtube.com/">Video SHOWCASE</a>
 </p>
 </p>
 <p align="center">

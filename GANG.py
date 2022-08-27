@@ -97,7 +97,6 @@ from tqdm import tqdm, trange
 from websocket import WebSocket
 from colorama import Back, Fore, Style
 from concurrent.futures import ThreadPoolExecutor
-from discord import Webhook, RequestsWebhookAdapter
 
 import os
 from os import system
@@ -1691,20 +1690,31 @@ Token Generator is in the Paid Version of GANG-Nuker!\nIf You Are Wanting to Pur
 
 #   NITRO GENERATOR
     if choice == '26':
-        Spinner()
+         Spinner()
 
+        
+        webhooklink = str(input(f"\n[\x1b[95m>\x1b[95m\x1B[37m] Webhook URL: "))
+        
         count = 0
 
-        colorama.init(autoreset=True)
-        link = input("\n[\x1b[95m>\x1b[95m\x1B[37m] Webhook URL?: ")
-        amount = int(input("[\x1b[95m>\x1b[95m\x1B[37m] Amount of Nitro Codes?: "))
-        for i in range(amount):
-            time.sleep(1)
-            code = "https://discord.gift/" + "".join(random.choices(string.ascii_letters + string.digits, k=16))
-            count += 1
-            print(f'[{Fore.LIGHTGREEN_EX}>{Fore.RESET}] Generated Nitro {count}')
-            webhook = Webhook.from_url(link, adapter=RequestsWebhookAdapter())
-            webhook.send(code)
+        webhook = "~~WEBHOOK_URL~~""".replace("~~WEBHOOK_URL~~", webhooklink)
+
+        while True:
+            try:
+                code = ''.join(random.SystemRandom().choice(string.ascii_letters + string.digits) for _ in range(24))
+                post = {"content":"https://discord.com/billing/promotions/"+code}
+                head = {
+
+                        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36", 
+                        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9", 
+                        'content-type' : 'application/json'
+                    }
+                count += 1
+                print(f'[{g}>{Fore.RESET}] Generated Nitro | [{count}]')
+                s = requests.post(webhook, json=post, headers=head)
+            except:
+                print(f"[{r}!{Fore.RESET}] Error!")
+                break
 
 
 

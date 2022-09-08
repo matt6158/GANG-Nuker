@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 <img src="https://img.shields.io/github/last-commit/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 <img src="https://img.shields.io/github/stars/TT-Tutorials/GANG-Nuker?color=6d00c1&label=Stars&style=flat-square" </a>
-<img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=6d00c1&label=Stars&style=flat-square" </a>
+<img src="https://img.shields.io/github/forks/TT-Tutorials/GANG-Nuker?color=6d00c1&label=Forkss&style=flat-square" </a>
 </p>
 
  
